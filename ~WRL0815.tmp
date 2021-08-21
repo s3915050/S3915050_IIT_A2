@@ -23,16 +23,16 @@ w\:* {behavior:url(#default#VML);}
   <o:Author>Tuvan</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Tuvan</o:LastAuthor>
-  <o:Revision>3</o:Revision>
-  <o:TotalTime>3</o:TotalTime>
-  <o:Created>2021-08-21T12:13:00Z</o:Created>
-  <o:LastSaved>2021-08-21T12:14:00Z</o:LastSaved>
+  <o:Revision>8</o:Revision>
+  <o:TotalTime>35</o:TotalTime>
+  <o:Created>2021-08-21T10:24:00Z</o:Created>
+  <o:LastSaved>2021-08-21T10:30:00Z</o:LastSaved>
   <o:Pages>10</o:Pages>
   <o:Words>3042</o:Words>
-  <o:Characters>17345</o:Characters>
+  <o:Characters>17343</o:Characters>
   <o:Lines>144</o:Lines>
   <o:Paragraphs>40</o:Paragraphs>
-  <o:CharactersWithSpaces>20347</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>20345</o:CharactersWithSpaces>
   <o:Version>14.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -4710,7 +4710,7 @@ table.a0SWCell
 	mso-tstyle-border-top:cell-none;}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="1044"/>
+ <o:shapedefaults v:ext="edit" spidmax="1043"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
@@ -4745,7 +4745,7 @@ Georgia;color:black;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000
  </v:formulas>
  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
  <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Picture_x0020_3" o:spid="_x0000_i1029" type="#_x0000_t75"
+</v:shapetype><v:shape id="Picture_x0020_3" o:spid="_x0000_i1030" type="#_x0000_t75"
  style='width:778.5pt;height:245.25pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="S3915050_Assignment2_IIT_files/image001.jpg" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=1038 height=327
@@ -4790,19 +4790,19 @@ background:white;mso-highlight:white'><o:p></o:p></span></p>
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:36.0pt;margin-bottom:.0001pt;line-height:150%;border:none;
 mso-padding-alt:31.0pt 31.0pt 31.0pt 29.0pt;mso-border-shadow:yes'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_5" o:spid="_x0000_s1043" type="#_x0000_t75" alt="INTP Logician Samsung S9 — Shop4Prints"
- style='position:absolute;left:0;text-align:left;margin-left:0;margin-top:105pt;
- width:91.45pt;height:169.1pt;z-index:-251628544;visibility:visible;
+ id="Picture_x0020_5" o:spid="_x0000_s1042" type="#_x0000_t75" alt="INTP Logician Samsung S9 — Shop4Prints"
+ style='position:absolute;left:0;text-align:left;margin-left:40.25pt;
+ margin-top:9.95pt;width:91.45pt;height:169.1pt;z-index:251680768;visibility:visible;
  mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;
  mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
- mso-wrap-distance-bottom:0;mso-position-horizontal:left;
+ mso-wrap-distance-bottom:0;mso-position-horizontal:right;
  mso-position-horizontal-relative:text;mso-position-vertical:absolute;
  mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;
  mso-width-relative:page;mso-height-relative:page'>
  <v:imagedata src="S3915050_Assignment2_IIT_files/image003.png" o:title="INTP Logician Samsung S9 — Shop4Prints"/>
- <w:wrap type="through"/>
+ <w:wrap type="square"/>
 </v:shape><![endif]--><![if !vml]><img width=122 height=225
-src="S3915050_Assignment2_IIT_files/image004.gif" align=left hspace=12
+src="S3915050_Assignment2_IIT_files/image004.gif" align=right hspace=12
 alt="INTP Logician Samsung S9 — Shop4Prints" v:shapes="Picture_x0020_5"><![endif]><span
 style='font-size:14.0pt;line-height:150%;font-family:"Georgia","serif";
 mso-fareast-font-family:Georgia;mso-bidi-font-family:Georgia;color:black;
@@ -4815,10 +4815,7 @@ different ideas from everyone in the group and </span><span style='font-size:
 Georgia;mso-bidi-font-family:Georgia;background:white;mso-highlight:white'>combining
 them<span style='color:black'>.<span style='mso-spacerun:yes'> 
 </span>Therefore, someone who is good at communicating, insensitive, loving
-innovative ideas will be compatible with me in every project.</span></span><span
-style='mso-no-proof:yes'> </span><span style='font-size:14.0pt;line-height:
-150%;font-family:"Georgia","serif";mso-fareast-font-family:Georgia;mso-bidi-font-family:
-Georgia;color:black;background:white;mso-highlight:white'><o:p></o:p></span></p>
+innovative ideas will be compatible with me in every project.<o:p></o:p></span></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:36.0pt;margin-bottom:.0001pt;line-height:150%;border:none;
@@ -4842,14 +4839,9 @@ mso-fareast-font-family:Georgia;mso-bidi-font-family:Georgia;color:black;
 background:white;mso-highlight:white'><span
 style='mso-spacerun:yes'> </span>Additionally, working with artist type like
 INFJ or INFP for my project is a plus since they have great taste in art which
-may help a lot in designing the game.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt;line-height:150%;border:none;
-mso-padding-alt:31.0pt 31.0pt 31.0pt 29.0pt;mso-border-shadow:yes'><span
-style='font-size:14.0pt;line-height:150%;font-family:"Georgia","serif";
-mso-fareast-font-family:Georgia;mso-bidi-font-family:Georgia;color:#548DD4;
-background:white;mso-highlight:white'><o:p>&nbsp;</o:p></span></p>
+may help a lot in designing the game.</span><span style='font-size:14.0pt;
+line-height:150%;font-family:"Georgia","serif";mso-fareast-font-family:Georgia;
+mso-bidi-font-family:Georgia;color:#548DD4;background:white;mso-highlight:white'><o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center;line-height:150%'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:22.0pt;line-height:
@@ -4863,30 +4855,28 @@ mso-effects-shadow-dpidistance:3.0pt;mso-effects-shadow-angledirection:5400000;
 mso-effects-shadow-align:top;mso-effects-shadow-pctsx:100.0%;mso-effects-shadow-pctsy:
 100.0%;mso-effects-shadow-anglekx:0;mso-effects-shadow-angleky:0'>PROJECT IDEAS<o:p></o:p></span></b></p>
 
-<p class=MsoNormal style='margin-left:36.0pt;line-height:150%'><span
-style='font-size:14.0pt;line-height:150%;font-family:"Georgia","serif";
-mso-fareast-font-family:Georgia;mso-bidi-font-family:Georgia;color:#333333;
-background:white;mso-highlight:white'>Recently, I intend to make a productivity
-and mental health care app on smartphone. There are a lot of websites of health
-care and time management, however it takes a bit more steps to access the
-websites as well as users may be struggling remembering the name of the
-website. Therefore, personally making an app for productivity is easier to
-access. <o:p></o:p></span></p>
+<p class=MsoNormal style='line-height:150%'><span style='font-size:14.0pt;
+line-height:150%;font-family:"Georgia","serif";mso-fareast-font-family:Georgia;
+mso-bidi-font-family:Georgia;color:#333333;background:white;mso-highlight:white'>Recently,
+I intend to make a productivity and mental health care app on smartphone. There
+are a lot of websites of health care and time management, however it takes a
+bit more steps to access the websites as well as users may be struggling
+remembering the name of the website. Therefore, personally making an app for
+productivity is easier to access. <o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt;line-height:150%;border:none;
-mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes'><i
-style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;line-height:
-150%;font-family:"Georgia","serif";mso-fareast-font-family:Georgia;mso-bidi-font-family:
-Georgia;color:black'>Time management tools are highly suggested in how
-technology can be used to support mental health in workplace and universities.<o:p></o:p></span></i></p>
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+150%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+yes'><i style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
+line-height:150%;font-family:"Georgia","serif";mso-fareast-font-family:Georgia;
+mso-bidi-font-family:Georgia;color:black'>Time management tools are highly
+suggested in how technology can be used to support mental health in workplace
+and universities.<o:p></o:p></span></i></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-indent:
-36.0pt;line-height:150%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-mso-border-shadow:yes'><i style='mso-bidi-font-style:normal'><span
-style='font-size:14.0pt;line-height:150%;font-family:"Georgia","serif";
-mso-fareast-font-family:Georgia;mso-bidi-font-family:Georgia;color:black'>Source:
-<a
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+150%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+yes'><i style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
+line-height:150%;font-family:"Georgia","serif";mso-fareast-font-family:Georgia;
+mso-bidi-font-family:Georgia;color:black'>Source: <a
 href="https://www.openaccessgovernment.org/technology-support-mental-health/67251/">https://www.openaccessgovernment.org/technology-support-mental-health/67251/</a><o:p></o:p></span></i></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:14.0pt;
@@ -4946,10 +4936,9 @@ more interesting.<o:p></o:p></span></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 150%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-yes'><b style='mso-bidi-font-weight:normal'><span style='font-size:18.0pt;
-line-height:150%;font-family:VNI-Avo;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Times New Roman";color:#95B3D7;background:white;
-mso-highlight:white'>Motivation:<o:p></o:p></span></b></p>
+yes'><span style='font-size:18.0pt;line-height:150%;font-family:VNI-Avo;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+color:#95B3D7;background:white;mso-highlight:white'>Motivation:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;line-height:150%;border:none;
 mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes'><span
@@ -5036,10 +5025,10 @@ text-indent:-36.0pt;line-height:150%;border:none;mso-padding-alt:31.0pt 31.0pt 3
 mso-border-shadow:yes'><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
 color:black;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="image12.png"
- o:spid="_x0000_i1028" type="#_x0000_t75" alt="A simple Pomodoro timer written in Flutter web | Mobile App Development"
- style='width:297.75pt;height:200.25pt;visibility:visible;mso-wrap-style:square'>
+ o:spid="_x0000_i1029" type="#_x0000_t75" alt="A simple Pomodoro timer written in Flutter web | Mobile App Development"
+ style='width:256.5pt;height:175.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="S3915050_Assignment2_IIT_files/image005.png" o:title="A simple Pomodoro timer written in Flutter web | Mobile App Development"/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=397 height=267
+</v:shape><![endif]--><![if !vml]><img border=0 width=342 height=234
 src="S3915050_Assignment2_IIT_files/image006.gif"
 alt="A simple Pomodoro timer written in Flutter web | Mobile App Development"
 v:shapes="image12.png"><![endif]></span><span style='font-size:14.0pt;
@@ -5052,10 +5041,10 @@ text-indent:-36.0pt;line-height:150%;border:none;mso-padding-alt:31.0pt 31.0pt 3
 mso-border-shadow:yes'><span style='font-size:12.0pt;line-height:150%;
 font-family:"Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
 color:black;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="image9.gif"
- o:spid="_x0000_i1027" type="#_x0000_t75" alt="Break Time Sticker for iOS &amp;amp; Android | GIPHY"
- style='width:171pt;height:164.25pt;visibility:visible;mso-wrap-style:square'>
+ o:spid="_x0000_i1028" type="#_x0000_t75" alt="Break Time Sticker for iOS &amp;amp; Android | GIPHY"
+ style='width:150pt;height:150pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="S3915050_Assignment2_IIT_files/image007.gif" o:title="Break Time Sticker for iOS &amp;amp; Android | GIPHY"/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=228 height=219
+</v:shape><![endif]--><![if !vml]><img border=0 width=200 height=200
 src="S3915050_Assignment2_IIT_files/image007.gif"
 alt="Break Time Sticker for iOS &amp;amp; Android | GIPHY" v:shapes="image9.gif"><![endif]></span><span
 style='font-size:14.0pt;line-height:150%;font-family:"Times New Roman","serif";
@@ -5106,7 +5095,7 @@ text-indent:-36.0pt;line-height:150%;border:none;mso-padding-alt:31.0pt 31.0pt 3
 mso-border-shadow:yes'><span style='font-size:12.0pt;line-height:150%;
 font-family:"Georgia","serif";mso-fareast-font-family:Georgia;mso-bidi-font-family:
 Georgia;color:black;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="image8.jpg"
- o:spid="_x0000_i1026" type="#_x0000_t75" alt="60 minutes - 1 h Countdown Timer Flip clock &#127925; / +Ambient&#129496;&#8205;&#9792;&#65039;+ Bells&#128276; -  YouTube"
+ o:spid="_x0000_i1027" type="#_x0000_t75" alt="60 minutes - 1 h Countdown Timer Flip clock &#127925; / +Ambient&#129496;&#8205;&#9792;&#65039;+ Bells&#128276; -  YouTube"
  style='width:254.25pt;height:143.25pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="S3915050_Assignment2_IIT_files/image008.jpg" o:title=" +Ambient&#129496;&#8205;&#9792;&#65039;+ Bells&#128276; -  YouTube"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=339 height=191
@@ -5168,7 +5157,7 @@ line-height:150%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
 mso-border-shadow:yes'><span style='font-size:12.0pt;line-height:150%;
 font-family:"Georgia","serif";mso-fareast-font-family:Georgia;mso-bidi-font-family:
 Georgia;color:black;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="image3.png"
- o:spid="_x0000_i1025" type="#_x0000_t75" style='width:274.5pt;height:228.75pt;
+ o:spid="_x0000_i1026" type="#_x0000_t75" style='width:274.5pt;height:228.75pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="S3915050_Assignment2_IIT_files/image010.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=366 height=305
@@ -5229,7 +5218,7 @@ mso-fareast-font-family:"Times New Roman";color:black'><o:p>&nbsp;</o:p></span><
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:72.0pt;margin-bottom:.0001pt;line-height:150%;border:none;
 mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes'><!--[if gte vml 1]><o:wrapblock><v:shape
-  id="image2.png" o:spid="_x0000_s1042" type="#_x0000_t75" alt="Pink Shopping | Iphone photo app, App icon, Iphone wallpaper app"
+  id="image2.png" o:spid="_x0000_s1041" type="#_x0000_t75" alt="Pink Shopping | Iphone photo app, App icon, Iphone wallpaper app"
   style='position:absolute;left:0;text-align:left;margin-left:489.6pt;
   margin-top:-113.6pt;width:117.2pt;height:117.2pt;z-index:251658240;
   visibility:visible;mso-wrap-style:square;mso-width-percent:0;
@@ -5241,7 +5230,7 @@ mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes'><!--[if gte v
   mso-height-relative:margin'>
   <v:imagedata src="S3915050_Assignment2_IIT_files/image012.png" o:title="Pink Shopping | Iphone photo app, App icon, Iphone wallpaper app"/>
   <w:wrap type="topAndBottom"/>
- </v:shape><v:shape id="image6.jpg" o:spid="_x0000_s1041" type="#_x0000_t75"
+ </v:shape><v:shape id="image6.jpg" o:spid="_x0000_s1040" type="#_x0000_t75"
   alt="Money Icon | Money icons, Iphone photo app, Ios app icon design"
   style='position:absolute;left:0;text-align:left;margin-left:219.55pt;
   margin-top:-94.8pt;width:116.35pt;height:116.35pt;z-index:251659264;
@@ -5320,7 +5309,7 @@ color:#D99694;mso-themecolor:accent2;mso-themetint:153;mso-style-textfill-fill-c
 100.0%;mso-style-textfill-fill-colortransforms:"lumm=60000 lumo=40000"'><span
 style='mso-list:Ignore'>&#9679;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><!--[if gte vml 1]><o:wrapblock><v:shape id="image11.jpg"
-  o:spid="_x0000_s1039" type="#_x0000_t75" style='position:absolute;left:0;
+  o:spid="_x0000_s1038" type="#_x0000_t75" style='position:absolute;left:0;
   text-align:left;margin-left:201pt;margin-top:-84.55pt;width:82.05pt;height:83.25pt;
   z-index:251660288;visibility:visible;mso-wrap-style:square;
   mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
@@ -5331,7 +5320,7 @@ style='mso-list:Ignore'>&#9679;<span style='font:7.0pt "Times New Roman"'>&nbsp;
   mso-width-relative:margin;mso-height-relative:margin'>
   <v:imagedata src="S3915050_Assignment2_IIT_files/image016.jpg" o:title=""/>
   <w:wrap type="topAndBottom"/>
- </v:shape><v:shape id="image10.png" o:spid="_x0000_s1040" type="#_x0000_t75"
+ </v:shape><v:shape id="image10.png" o:spid="_x0000_s1039" type="#_x0000_t75"
   style='position:absolute;left:0;text-align:left;margin-left:96pt;
   margin-top:-84.55pt;width:105.75pt;height:83.95pt;z-index:251661312;
   visibility:visible;mso-wrap-style:square;mso-width-percent:0;
@@ -5381,32 +5370,15 @@ color:#D99594'><span style='mso-tab-count:1'> </span><o:p></o:p></span></b></p>
 <p class=MsoNormal align=center style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:72.0pt;margin-bottom:.0001pt;text-align:center;
 line-height:150%;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-mso-border-shadow:yes'><!--[if gte vml 1]><o:wrapblock><v:shape id="Picture_x0020_10"
-  o:spid="_x0000_s1038" type="#_x0000_t75" style='position:absolute;left:0;
-  text-align:left;margin-left:150pt;margin-top:-254.9pt;width:119.95pt;
-  height:259.6pt;z-index:251686912;visibility:visible;mso-wrap-style:square;
-  mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
-  mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
-  mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
-  mso-position-horizontal-relative:text;mso-position-vertical:absolute;
-  mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;
-  mso-width-relative:page;mso-height-relative:page'>
-  <v:imagedata src="S3915050_Assignment2_IIT_files/image019.jpg" o:title=""/>
-  <w:wrap type="topAndBottom"/>
- </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
- <table cellpadding=0 cellspacing=0 align=left>
-  <tr>
-   <td width=200 height=0></td>
-  </tr>
-  <tr>
-   <td></td>
-   <td><img width=160 height=346
-   src="S3915050_Assignment2_IIT_files/image020.jpg" v:shapes="Picture_x0020_10"></td>
-  </tr>
- </table>
- </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
-style='mso-ignore:vglayout' clear=ALL>
-<span style='font-size:14.0pt;line-height:150%;font-family:"Georgia","serif";
+mso-border-shadow:yes'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:16.0pt;line-height:150%;font-family:"Courier New";mso-fareast-font-family:
+"Courier New";color:#D99594;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_10"
+ o:spid="_x0000_i1025" type="#_x0000_t75" style='width:120pt;height:259.5pt;
+ visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="S3915050_Assignment2_IIT_files/image019.jpg" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=160 height=346
+src="S3915050_Assignment2_IIT_files/image020.jpg" v:shapes="Picture_x0020_10"><![endif]></span></b><span
+style='font-size:14.0pt;line-height:150%;font-family:"Georgia","serif";
 mso-fareast-font-family:Georgia;mso-bidi-font-family:Georgia;color:black'><o:p></o:p></span></p>
 
 <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
@@ -6312,53 +6284,52 @@ mso-effects-shadow-pctsy:100.0%;mso-effects-shadow-anglekx:0;mso-effects-shadow-
   margin-bottom:0cm;margin-left:33.85pt;margin-bottom:.0001pt;mso-add-space:
   auto;text-indent:-18.0pt;line-height:150%;mso-list:l24 level1 lfo27;
   border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes;mso-yfti-cnfc:64'><![if !supportLists]><span style='font-size:14.0pt;
+  yes;mso-yfti-cnfc:64'><![if !supportLists]><span style='font-size:12.0pt;
   line-height:150%;font-family:Symbol;mso-fareast-font-family:Symbol;
   mso-bidi-font-family:Symbol;color:#558ED5;mso-themecolor:text2;mso-themetint:
   153;mso-style-textfill-fill-color:#558ED5;mso-style-textfill-fill-themecolor:
   text2;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
   "lumm=60000 lumo=40000"'><span style='mso-list:Ignore'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><![endif]><span style='font-size:14.0pt;line-height:
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style='font-size:12.0pt;line-height:
   150%;font-family:"Georgia","serif";mso-fareast-font-family:Cambria;
   mso-bidi-font-family:Arial;color:#333333;background:#EDEDED'>3rd-generation
   Core CPUs with Intel HD Graphics 4000/2500.</span></span><span
-  style='font-size:14.0pt;line-height:150%;font-family:"Georgia","serif";
+  style='font-size:12.0pt;line-height:150%;font-family:"Georgia","serif";
   mso-fareast-font-family:Georgia;mso-bidi-font-family:Georgia;color:black'><o:p></o:p></span></p>
   <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:33.85pt;margin-bottom:.0001pt;mso-add-space:
   auto;text-indent:-18.0pt;line-height:150%;mso-list:l24 level1 lfo27;
   border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes;mso-yfti-cnfc:64'><![if !supportLists]><span style='font-size:14.0pt;
+  yes;mso-yfti-cnfc:64'><![if !supportLists]><span style='font-size:12.0pt;
   line-height:150%;font-family:Symbol;mso-fareast-font-family:Symbol;
   mso-bidi-font-family:Symbol;color:#558ED5;mso-themecolor:text2;mso-themetint:
   153;mso-style-textfill-fill-color:#558ED5;mso-style-textfill-fill-themecolor:
   text2;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
   "lumm=60000 lumo=40000"'><span style='mso-list:Ignore'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><![endif]><span style='font-size:14.0pt;line-height:
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style='font-size:12.0pt;line-height:
   150%;font-family:"Georgia","serif";mso-fareast-font-family:Cambria;
   mso-bidi-font-family:Arial;color:#333333;background:#EDEDED'>Intel Core </span><span
-  style='font-size:14.0pt;line-height:150%;font-family:"Georgia","serif";
-  mso-fareast-font-family:Cambria;mso-bidi-font-family:"Times New Roman";
-  color:#333333;background:#EDEDED'>i5 7400</span><span style='font-size:14.0pt;
-  line-height:150%;font-family:"Georgia","serif";mso-fareast-font-family:Georgia;
-  mso-bidi-font-family:Georgia;color:black'><o:p></o:p></span></p>
+  style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman","serif";
+  mso-fareast-font-family:Cambria;color:#333333;background:#EDEDED'>i5 7400</span><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Georgia","serif";
+  mso-fareast-font-family:Georgia;mso-bidi-font-family:Georgia;color:black'><o:p></o:p></span></p>
   <p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:33.85pt;margin-bottom:.0001pt;mso-add-space:
   auto;text-indent:-18.0pt;line-height:150%;mso-list:l24 level1 lfo27;
   border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes;mso-yfti-cnfc:64'><![if !supportLists]><span style='font-size:14.0pt;
+  yes;mso-yfti-cnfc:64'><![if !supportLists]><span style='font-size:12.0pt;
   line-height:150%;font-family:Symbol;mso-fareast-font-family:Symbol;
   mso-bidi-font-family:Symbol;color:#558ED5;mso-themecolor:text2;mso-themetint:
   153;mso-style-textfill-fill-color:#558ED5;mso-style-textfill-fill-themecolor:
   text2;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
   "lumm=60000 lumo=40000"'><span style='mso-list:Ignore'>·<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span></span><![endif]><span style='font-size:14.0pt;line-height:
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style='font-size:12.0pt;line-height:
   150%;font-family:"Georgia","serif";mso-fareast-font-family:Cambria;
   mso-bidi-font-family:Arial;color:#333333;background:#EDEDED'>RAM: 8GB</span><span
-  style='font-size:14.0pt;line-height:150%;font-family:"Georgia","serif";
+  style='font-size:12.0pt;line-height:150%;font-family:"Georgia","serif";
   mso-fareast-font-family:Georgia;mso-bidi-font-family:Georgia;color:black'><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:15.85pt;margin-bottom:.0001pt;line-height:150%;border:none;
